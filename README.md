@@ -10,6 +10,6 @@ Offline Change point detection approaches deal with non live streaming data, and
 
 ## Contribution
 1. Researched and studied 30+ scholarly papers related to additive and multiplicative CPD systems in time series forecasting to guide an innovative methodology for CPD with Facebook’s Prophet as a baseline model. 
-2. Assisted in methodology development and built initial optimization models by implementing Genetic Algorithm to Linear Regression, Piecewise Linear Regression to be transferred to time series (AR) model with unsupervised clustering method (MDL) as the model selection criteria.
+2. Assisted in methodology development and built initial optimization models by implementing Genetic Algorithm to Linear Regression, Piecewise Linear Regression to be transferred to time series (AR) model with unsupervised clustering method (MDL- Minimum Description Length) as the model selection criteria.
 
-## 
+**Example Code uses two data sets: a simulated data set and Boston data set as an illustration of the methodolody developed**
